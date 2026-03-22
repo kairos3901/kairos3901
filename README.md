@@ -10,7 +10,6 @@
 - 🎓 **Education:** Bachelor of Computer Engineering from HCMC University of Technology and Education (2021 - 2025).
 - 💼 **Experience:** Intern Embedded Software at FPT Telecom, working with STM32, Linux environments, and WebRTC.
 - 🌱 **Currently exploring:** Deeper RTOS concepts, Firmware Development, and Computer Vision.
-- 🎯 **Goals:** Seeking full-time opportunities to apply my analytical thinking to real-world embedded systems projects.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -31,12 +30,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### 🚀 Highlighted Projects
-- 🏎️ **Simulated Car for UIT Racing Car 2024:** Developed an autonomous simulated car in a Ubuntu Linux environment using Python and control algorithms.
-- 🤖 **Maze-Solving Robot:** Designed an ESP32-based robot (C++) with manual and autonomous navigation using servo motors.
-- 🏠 **Smart Home System:** Built an IoT automation system using ESP32, Firebase, and a custom Android app.
-- 👤 **Attendance System:** Created a facial recognition attendance system on Raspberry Pi using Python and OpenCV.
 
 ### 📫 Connect with me
 <div align="center">
