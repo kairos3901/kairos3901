@@ -11,19 +11,6 @@
 - 💼 **Experience:** Intern Embedded Software at FPT Telecom, working with STM32, Linux environments, and WebRTC.
 - 🌱 **Currently exploring:** Deeper RTOS concepts, Firmware Development, and Computer Vision.
 
-### 🛠️ Tech Stack & Tools
-
-**Programming Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Microcontrollers & Hardware:**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
 ### Tech Stack
 
 | Category | Tools & Technologies |
