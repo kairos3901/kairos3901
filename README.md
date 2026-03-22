@@ -31,6 +31,28 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+
+
+### Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
+| **Microcontrollers** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) |
+| **Embedded & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![RTOS](https://img.shields.io/badge/RTOS-000000?style=flat&logo=rtos&logoColor=white) |
+| **Tools & Libraries**| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
+
+<br>
+
+### Career Highlights
+
+* Intern Embedded Software @ FPT Telecom, researching and developing applications within STM32 and Linux environments.
+* Implemented camera solutions using WebRTC for real-time video streaming, ensuring low-latency performance.
+* Bachelor of Computer Engineering graduate from HCMC University of Technology and Education.
+* Developed a Simulated Car for UIT Racing Car 2024 using Python, integrating sensor and autonomous control algorithms.
+* Built an IoT Smart Home System utilizing ESP32, Firebase Realtime Database, and a custom Android application.
+* Designed an automated Attendance System using Facial Recognition (OpenCV) and fingerprint scanning on Raspberry Pi.
+
 ### 📫 Connect with me
 <div align="center">
   <a href="mailto:thongvq390@gmail.com">
