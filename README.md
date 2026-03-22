@@ -9,6 +9,8 @@
 ### 👨‍💻 About Me
 - 🎓 **Education:** Bachelor of Computer Engineering from HCMC University of Technology and Education (2021 - 2025).
 - 💼 **Experience:** Intern Embedded Software at FPT Telecom, working with STM32, Linux environments, and WebRTC.
+- **Electronics Hardware @ []** 
+  Assisted in hardware design, PCB soldering, and testing electronic components for embedded systems.
 - 🌱 **Currently exploring:** Deeper RTOS concepts, Firmware Development, and Computer Vision.
 
 ### Tech Stack
